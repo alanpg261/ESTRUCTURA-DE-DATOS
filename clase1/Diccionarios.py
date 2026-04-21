@@ -5,7 +5,7 @@ def imprimir(paises):
 
 paises = {"Colombia": "Bogotá", "Perú": "Lima", "Argentina": "Buenos Aires"}
 imprimir(paises)
-'''
+
 def Cargar():
     personas = {}
     for i in range(5):
@@ -29,3 +29,4 @@ def consultar(personas):
 personas = Cargar()
 Imprimir(personas)
 consultar(personas)
+'''
